@@ -1,0 +1,13 @@
+
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+body
+{
+    background-color: #F1F1F2;
+    font-family: "Open Sans", Arial;
+}
+.text-white:hover{
+	color: orange;
+}
+.jumbotron{
+	
+}
